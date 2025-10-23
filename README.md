@@ -15,7 +15,9 @@ If the code is helpful to you, please cite the following papers.
   title={Unsupervised Mechanism-Informed Neural Network Modeling of Plastic Hardening in Rafted Ni-Based Single Crystals},
   author={Weng, Huanbo and Luo, Cheng and Yuan, Huang},
   journal={International Journal of Plasticity},
+  pages = {104507},
   year={2025},
+  doi = {https://doi.org/10.1016/j.ijplas.2025.104507},
   publisher={Elsevier}
 }
 
@@ -25,6 +27,7 @@ If the code is helpful to you, please cite the following papers.
   journal={International Journal of Mechanical Sciences},
   pages={110491},
   year={2025},
+  doi = {https://doi.org/10.1016/j.ijmecsci.2025.110491},
   publisher={Elsevier}
 }
 ```
